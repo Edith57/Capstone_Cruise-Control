@@ -1,4 +1,4 @@
-# YOLO 기반의 ADAS를 적용한 ACC(Advanced Cruise Control) Simulation by MATLAB&Simulink (1)
+# YOLO 기반의 ADAS를 적용한 ACC(Advanced Cruise Control) Simulation by MATLAB&Simulink
 
 ## 개요
 
