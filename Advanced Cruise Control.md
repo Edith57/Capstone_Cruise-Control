@@ -1,10 +1,10 @@
-# YOLO 기반의 ADAS를 적용한 ACC(Advanced Cruise Control) Simulation by MATLAB&Simulink
+# YOLO 기반의 ADAS를 적용한 ACC(Adapted Cruise Control) Simulation by MATLAB&Simulink🚗
 
 ## 개요
 
 - **CC(Cruise Control)**
     - 운전자가 accelerate 하지 않아도 지정된 속도로 차량을 주행할 수 있는 기능.
-- **ACC(Advanced Cruise Control)**
+- **ACC(Adapted Cruise Control)**
     - 기존 크루즈 기능에, 브레이크도 자동으로 밟아주는 기능이 추가된 시스템.
     - 즉 주변 차량 환경을 인식하고 가속, 브레이크를 cruise로 제어하기 위해서는 자율 주행 기술이 필요.
 
