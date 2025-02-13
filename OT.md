@@ -1,3 +1,4 @@
+## 2025.02.13.
 # 📆일정
 현재~ : 
 
@@ -11,7 +12,7 @@ YOLOv5와 YOLOv8 모델 스터디, 학습시킨 후 MATLAB에서 성능 비교
 * Simulink에서 자동차 제어 시스템 구축, 위의 Toolbox에서 Sensor fusion 까지 시도
 * 성능 최적화 및 여러 주행 환경 테스트
 
-# 📂Tool
+# 📂Toolbox
 * Computer Vision Toolbox
 * Deep Learning Toolbox
 * Simulink
